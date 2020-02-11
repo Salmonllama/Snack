@@ -8,6 +8,7 @@ group 'dev.salmonllama'
 version '0.0.0'
 
 sourceCompatibility = 1.8
+mainClassName = 'dev.salmonllama.snack.Main'
 
 javafx {
     version = "11.0.1"
